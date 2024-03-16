@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="aquatic_stream_bus"
+        android:label="aquatic stream bus"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
